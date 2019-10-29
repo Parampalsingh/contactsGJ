@@ -19,6 +19,7 @@ public class Contact: NSManagedObject, Codable {
         case lastName = "last_name"
         case profilePic = "profile_pic"
         case phoneNumber = "phone_number"
+
     }
     
     public required convenience init(from decoder: Decoder) throws {
