@@ -768,7 +768,9 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1030;
 				LastUpgradeCheck = 1030;
+
 				ORGANIZATIONNAME = Anonymous;
+
 				TargetAttributes = {
 					446C1B1F2303DEEB00FEFF90 = {
 						CreatedOnToolsVersion = 10.3;
@@ -1228,7 +1230,9 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = AFDKURH36K;
 				INFOPLIST_FILE = GJAssignmentTests/Info.plist;
+
 				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1251,7 +1255,9 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = AFDKURH36K;
 				INFOPLIST_FILE = GJAssignmentTests/Info.plist;
+
 				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1273,7 +1279,9 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = AFDKURH36K;
 				INFOPLIST_FILE = GJAssignmentUITests/Info.plist;
+
 				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1295,7 +1303,9 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = AFDKURH36K;
 				INFOPLIST_FILE = GJAssignmentUITests/Info.plist;
+
 				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
